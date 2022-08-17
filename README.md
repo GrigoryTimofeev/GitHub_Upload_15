@@ -3,7 +3,7 @@
 In this activity, I created a Lex chabot intended to increase the client's portfolio and engage young people. Because machine learning and NLP are disrupting finance to improve the customer experience, I created a robo advisor. Both existing and potentially new customers will be able to use this robo advisor to get investment portfolio recommendations for retirement.
 
 MP4 file showing the ChatBot functionality:
-https://github.com/GrigoryTimofeev/GitHub_Upload_15/blob/main/TH_Clip_1_Mod_15.mp4
+https://drive.google.com/file/d/1BKEl9MSrkh_RkdM1ot-b94gEPLcA2VdT/view?usp=sharing
 
 ---
 
